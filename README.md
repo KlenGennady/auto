@@ -1,2 +1,2 @@
 # auto
-[GitHub Pages](https://pages.github.com/)
+[GitHub Pages](https://klengennady.github.io/auto/)
